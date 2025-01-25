@@ -133,6 +133,6 @@ public class AplikasiPengelolaanKRS {
     }
 
     public static void main(String[] args) {
-        SwingUtilities.invokeLater(KRSManagementApp::new);
+        SwingUtilities.invokeLater(AplikasiPengelolanKRS::new);
     }
 }
